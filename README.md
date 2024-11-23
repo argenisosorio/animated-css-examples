@@ -1,5 +1,5 @@
 # Animate CSS examples
 
-Demo: 
+Demo: https://argenisosorio.github.io/animated-css-examples/
 
 Oficial site: https://animate.style/
